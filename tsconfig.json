@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "noImplicitReturns": true,
+        "noFallthroughCasesInSwitch": true,
+        "removeComments": true,
+        "sourceMap": true,
+        "module": "Node16"
+    }
+}
